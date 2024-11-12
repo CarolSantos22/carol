@@ -1,0 +1,6 @@
+Em Programação Orientada a Objetos (POO), encapsulamento é um dos conceitos fundamentais. Ele é utilizado para proteger os dados da classe, permitindo que apenas métodos específicos possam acessar ou modificar esses dados. Considerando o conceito de encapsulamento, qual das opções a seguir reflete melhor a maneira correta de aplicá-lo?
+*
+Declarar todos os métodos como static, para evitar problemas de instância e encapsulamento.
+Utilizar métodos get e set para controlar o acesso aos atributos privados, permitindo apenas manipulação de dados autorizada.
+Definir todos os métodos e atributos como protected, garantindo acesso direto apenas entre subclasses.
+Criar todos os atributos da classe como públicos para permitir acesso direto a partir de qualquer parte do programa.
